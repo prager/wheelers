@@ -1,7 +1,15 @@
-<!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	</div>
+    <script src="<?php echo base_url() ;?>assets/vendor/jquery/jquery.min.js"></script>
+    <script src="<?php echo base_url() ;?>assets/vendor/popper.js/umd/popper.min.js"> </script>
+    <script src="<?php echo base_url() ;?>assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="<?php echo base_url() ;?>assets/vendor/jquery.cookie/jquery.cookie.js"> </script>
+    <script src="<?php echo base_url() ;?>assets/vendor/waypoints/lib/jquery.waypoints.min.js"> </script>
+    <script src="<?php echo base_url() ;?>assets/vendor/jquery.counterup/jquery.counterup.min.js"> </script>
+    <script src="<?php echo base_url() ;?>assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="<?php echo base_url() ;?>assets/vendor/owl.carousel2.thumbs/owl.carousel2.thumbs.min.js"></script>
+    <script src="<?php echo base_url() ;?>assets/js/jquery.parallax-1.1.3.js"></script>
+    <script src="<?php echo base_url() ;?>assets/vendor/bootstrap-select/js/bootstrap-select.min.js"></script>
+    <script src="<?php echo base_url() ;?>assets/vendor/jquery.scrollto/jquery.scrollTo.min.js"></script>
+    <script src="<?php echo base_url() ;?>assets/js/front.js"></script>
 </body>
 </html>

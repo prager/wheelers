@@ -9,21 +9,21 @@
     
 	<script src='https://kit.fontawesome.com/a076d05399.js'></script>
     <!-- Bootstrap CSS-->
-    <link rel="stylesheet" href="<?php echo base_url() ;?>assets/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo base_url() ;?>/assets/vendor/bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome CSS-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="<?php echo base_url() ;?>assets/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?php echo base_url() ;?>/assets/vendor/font-awesome/css/font-awesome.min.css">
     <!-- Google fonts - Roboto-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700">
     <!-- Bootstrap Select-->
-    <link rel="stylesheet" href="<?php echo base_url() ;?>assets/vendor/bootstrap-select/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="<?php echo base_url() ;?>/assets/vendor/bootstrap-select/css/bootstrap-select.min.css">
     <!-- owl carousel-->
-    <link rel="stylesheet" href="<?php echo base_url() ;?>assets/vendor/owl.carousel/assets/owl.carousel.css">
-    <link rel="stylesheet" href="<?php echo base_url() ;?>assets/vendor/owl.carousel/assets/owl.theme.default.css">
+    <link rel="stylesheet" href="<?php echo base_url() ;?>/assets/vendor/owl.carousel/assets/owl.carousel.css">
+    <link rel="stylesheet" href="<?php echo base_url() ;?>/assets/vendor/owl.carousel/assets/owl.theme.default.css">
     <!-- theme stylesheet-->
-    <link rel="stylesheet" href="<?php echo base_url() ;?>assets/css/style.default.css" id="theme-stylesheet">
+    <link rel="stylesheet" href="<?php echo base_url() ;?>/assets/css/style.default.css" id="theme-stylesheet">
     <!-- Custom stylesheet - for your changes-->
-    <link rel="stylesheet" href="<?php echo base_url() ;?>assets/css/custom.css">    
+    <link rel="stylesheet" href="<?php echo base_url() ;?>/assets/css/custom.css">    
   </head>
 <body>
 <div id="all">

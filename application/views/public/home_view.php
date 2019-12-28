@@ -88,43 +88,39 @@
                 </table><br>
                 
               </div>
-              <div class="banner"><a href="shop-category.html"><img src="img/banner.jpg" alt="sales 2014" class="img-fluid"></a></div>
+              <div class="banner"><a href="shop-category.html"><img src="<?php echo base_url() ;?>/assets/img/jeep.jpg" 
+              alt="jeep" class="img-fluid"></a></div>
             </div>
             <div class="col-md-9">
               <section>
                 <div id="text-page">
-                  <p class="lead">This page's aim is to show you the most common HTML elements appearance on the website. For further reference please visit official <a href="http://getbootstrap.com/css/" class="external">Bootstrap website</a>.</p>
-                  <h1>Text formatting - Header level 1</h1>
-                  <p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
-                  <h2>Header Level 2</h2>
+                  
+                  <h2>Not all those who wander are lost</h2>
+                   <p class="lead">The Wandering Wheelers Jeep  Club is based out of Hayward, CA. Jeepers of all ages, singles, 
+                  and families are welcome.</p>
                   <ol>
                     <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
                     <li>Aliquam tincidunt mauris eu risus.</li>
                   </ol>
                   <blockquote class="blockquote">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna.
+                    Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. 
+                    Vivamus pretium ornare est.</p>
                   </blockquote>
-                  <h3>Header Level 3</h3>
-                  <ul>
-                    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-                    <li>Aliquam tincidunt mauris eu risus.</li>
-                  </ul>
-                  <hr>
-                  <h2>Images</h2>
-                  <div class="row">
-                    <div class="col-md-4">
-                      <p class="text-center"><img src="img/detailsquare.jpg" alt="" class="rounded-circle img-fluid"></p>
-                      <p class="text-center">circle</p>
-                    </div>
-                    <div class="col-md-4">
-                      <p class="text-center"><img src="img/detailsquare.jpg" alt="" class="img-thumbnail img-fluid"></p>
-                      <p class="text-center">thumbnail</p>
-                    </div>
-                    <div class="col-md-4">
-                      <p class="text-center"><img src="img/detailsquare.jpg" alt="" class="rounded img-fluid"></p>
-                      <p class="text-center">rounded</p>
-                    </div>
-                  </div>
+                  <div class="project owl-carousel">
+                      <div class="item"><img src="<?php echo base_url() ;?>/assets/img/sldr-1.jpg" alt="" class="img-fluid"></div>
+                      <div class="item"><img src="<?php echo base_url() ;?>/assets/img/sldr-2.jpg"></div>
+                      <div class="item"><img src="<?php echo base_url() ;?>/assets/img/sldr-3.png"></div>
+                      <div class="item"><img src="<?php echo base_url() ;?>/assets/img/sldr-1.jpg"></div>
+            	</div>
+            	<div class="heading">
+                  <h3>The Trails We Go</h3>
+                </div>
+                <p>Bringing unlocked me an striking ye perceive. Mr by wound hours oh happy. 
+                Me in resolution pianoforte continuing we. Most my no spot felt by no. 
+                He he in forfeited furniture sweetness he arranging.</p>
+                <p>To sorry world an at do spoil along. Incommode he depending do frankness remainder to. Edward day almost active him friend thirty piqued. People as period twenty my extent as. Set was better abroad ham plenty secure had horses. Admiration has sir decisively excellence say everything inhabiting acceptance. Sooner settle add put you sudden him.</p>
+              
                 </div>
               </section>
             </div>

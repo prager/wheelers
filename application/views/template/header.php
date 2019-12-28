@@ -111,7 +111,7 @@
               <li class="nav-item active"><a href="#">Home </a></li>
               <li class="nav-item"><a href="#">Events </a></li>
               <li class="nav-item"><a href="#">Destinations </a></li>
-              <li class="nav-item"><a href="<?php echo base_url() ;?>pub/blog">Blog </a></li>
+              <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/blog">Blog </a></li>
               <li class="nav-item"><a href="#">Jeep Garage </a></li>
               <li class="nav-item dropdown"><a href="javascript: void(0)" data-toggle="dropdown" class="dropdown-toggle">
                 About <b class="caret"></b></a>

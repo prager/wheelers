@@ -1,5 +1,3 @@
-<?php include 'header.php';?>
-
 <div id="content">
         <div class="container">
           <div class="row bar">
@@ -97,7 +95,7 @@
                   
                   <h2>Not all those who wander are lost</h2>
                    <p class="lead">The Wandering Wheelers Jeep  Club is based out of Hayward, CA. Jeepers of all ages, singles, 
-                  and families are welcome.</p>
+                  and families are welcome. <?php echo '<br><br><br>'. base_url() . 'assets/img/ms-icon-144x144.png'; ?> --> </p>
                   <ol>
                     <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
                     <li>Aliquam tincidunt mauris eu risus.</li>
@@ -127,5 +125,3 @@
           </div>
         </div>
       </div>
-
-<?php include 'footer.php';?>

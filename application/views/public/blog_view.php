@@ -21,7 +21,7 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="image">
-                <a href="blog-post.html"><img src="https://dummyimage.com/900x675/c2c9cc/b2b4cf.jpg&text=placeholder" alt="Example blog post alt" class="img-fluid"></a></div>
+                <a href="blog-post.html"><img src="https://dummyimage.com/900x675/929194/d6d7e3.jpg&text=Placeholder" alt="Example blog post alt" class="img-fluid"></a></div>
               </div>
               <div class="col-md-8">
                 <h2 class="h3 mt-0"><a href="post.htmls">Blog Story</a></h2>
@@ -57,7 +57,7 @@
           <section class="post">
             <div class="row">
               <div class="col-md-4">
-                <div class="image"><a href="blog-post.html"><img src="img/blog-medium.jpg" alt="Example blog post alt" class="img-fluid"></a></div>
+                <div class="image"><a href="blog-post.html"><img src="https://dummyimage.com/900x675/929194/d6d7e3.jpg&text=Placeholder" alt="Example blog post alt" class="img-fluid"></a></div>
               </div>
               <div class="col-md-8">
                 <h2 class="h3 mt-0"><a href="post.htmls">Blog Post</a></h2>

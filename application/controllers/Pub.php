@@ -10,8 +10,14 @@ class Pub extends CI_Controller {
 	}
 	
 	public function blog() {
-	    $this->load->view('template/header');
-	    $this->load->view('public/blog');
+	    $this->load->view('template/header_blog');
+	    $this->load->view('public/blog_view');
 	    $this->load->view('template/footer');	    
+	}
+	
+	public function events() {
+	    $this->load->view('template/header_events');
+	    $this->load->view('public/events_view');
+	    $this->load->view('template/footer');
 	}
 }

@@ -25,7 +25,6 @@
     <!-- Custom stylesheet - for your changes-->
     <link rel="stylesheet" href="<?php echo base_url() ;?>assets/css/custom.css">  
     
-    <!-- Favicons generated via https://www.favicon-generator.org/ -->
 	<link rel="apple-touch-icon" sizes="57x57" href="<?php echo base_url() ;?>assets/img/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="<?php echo base_url() ;?>assets/img/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="<?php echo base_url() ;?>assets/img/apple-icon-72x72.png">
@@ -109,8 +108,8 @@
             <button type="button" data-toggle="collapse" data-target="#navigation" class="navbar-toggler btn-template-outlined"><span class="sr-only">Toggle navigation</span><i class="fa fa-align-justify"></i></button>
             <div id="navigation" class="navbar-collapse collapse">
               <ul class="nav navbar-nav ml-auto">
-              <li class="nav-item active"><a href="<?php echo base_url() ;?>">Home </a></li>
-              <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/events">Events </a></li>
+              <li class="nav-item"><a href="<?php echo base_url() ;?>">Home </a></li>
+              <li class="nav-item active"><a href="<?php echo base_url() ;?>index.php/pub/events">Events </a></li>
               <li class="nav-item"><a href="#">Destinations </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/blog">Blog </a></li>
               <li class="nav-item"><a href="#">Jeep Garage </a></li>

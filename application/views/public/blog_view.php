@@ -6,7 +6,7 @@
         </div>
         <div class="col-md-5">
           <ul class="breadcrumb d-flex justify-content-end">
-            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo base_url() ;?>">Home</a></li>
             <li class="breadcrumb-item active">Wheelers' Blog</li>
           </ul>
         </div>

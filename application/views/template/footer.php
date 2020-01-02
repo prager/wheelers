@@ -48,14 +48,15 @@
               <hr class="d-block d-lg-none">
             </div>
             <div class="col-lg-3">
-              <!--<ul class="list-inline photo-stream">
-               <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo.png" alt="..." class="img-fluid"></a></li>
-                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo.png" alt="..." class="img-fluid"></a></li>
-                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo.png" alt="..." class="img-fluid"></a></li>
-                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo.png" alt="..." class="img-fluid"></a></li>
-                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo.png" alt="..." class="img-fluid"></a></li>
-                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo.png" alt="..." class="img-fluid"></a></li>
-              </ul>  --> 
+            <h4 class="h6">Albums</h4>
+              <ul class="list-inline photo-stream">
+               <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo-white.png" alt="..." class="img-fluid"></a></li>
+                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo-white.png" alt="..." class="img-fluid"></a></li>
+                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo-white.png" alt="..." class="img-fluid"></a></li>
+                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo-white.png" alt="..." class="img-fluid"></a></li>
+                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo-white.png" alt="..." class="img-fluid"></a></li>
+                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo-white.png" alt="..." class="img-fluid"></a></li>
+              </ul> 
             </div>
           </div>
         </div>

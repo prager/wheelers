@@ -110,15 +110,15 @@
               <ul class="nav navbar-nav ml-auto">
               <li class="nav-item"><a href="<?php echo base_url() ;?>">Home </a></li>
               <li class="nav-item active"><a href="<?php echo base_url() ;?>index.php/pub/events">Events </a></li>
-              <li class="nav-item"><a href="#">Destinations </a></li>
+              <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/destinations">Destinations </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/blog">Blog </a></li>
-              <li class="nav-item"><a href="#">Jeep Garage </a></li>
+              <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/garage">Jeep Garage </a></li>
               <li class="nav-item dropdown"><a href="javascript: void(0)" data-toggle="dropdown" class="dropdown-toggle">
                 About <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li class="dropdown-item"><a href="index.html" class="nav-link">Our Club</a></li>
-                    <li class="dropdown-item"><a href="index2.html" class="nav-link">Contact</a></li>
-                    <li class="dropdown-item"><a href="index3.html" class="nav-link">Our Team</a></li>                    
+                    <li class="dropdown-item"><a href="<?php echo base_url() ;?>index.php/pub/club" class="nav-link">Our Club</a></li>
+                    <li class="dropdown-item"><a href="<?php echo base_url() ;?>index.php/pub/contact" class="nav-link">Contact</a></li>
+                    <li class="dropdown-item"><a href="<?php echo base_url() ;?>index.php/pub/team" class="nav-link">Our Team</a></li>                    
                 </li>
                <!-- <li class="nav-item dropdown active"><a href="javascript: void(0)" data-toggle="dropdown" class="dropdown-toggle">
                 Home <b class="caret"></b></a>

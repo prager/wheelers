@@ -20,4 +20,34 @@ class Pub extends CI_Controller {
 	    $this->load->view('public/events_view');
 	    $this->load->view('template/footer');
 	}
+	
+	public function destinations() {
+	    $this->load->view('template/header_destinations');
+	    $this->load->view('public/destinations_view');
+	    $this->load->view('template/footer');
+	}
+	
+	public function garage() {
+	    $this->load->view('template/header_garage');
+	    $this->load->view('public/garage_view');
+	    $this->load->view('template/footer');
+	}
+	
+	public function club() {
+	    $this->load->view('template/header_gen');
+	    $this->load->view('public/club_view');
+	    $this->load->view('template/footer');
+	}
+	
+	public function contact() {
+	    $this->load->view('template/header_gen');
+	    $this->load->view('public/contact_view');
+	    $this->load->view('template/footer');
+	}
+	
+	public function team() {
+	    $this->load->view('template/header_gen');
+	    $this->load->view('public/team_view');
+	    $this->load->view('template/footer');
+	}
 }

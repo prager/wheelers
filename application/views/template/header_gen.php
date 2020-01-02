@@ -109,7 +109,7 @@
             <button type="button" data-toggle="collapse" data-target="#navigation" class="navbar-toggler btn-template-outlined"><span class="sr-only">Toggle navigation</span><i class="fa fa-align-justify"></i></button>
             <div id="navigation" class="navbar-collapse collapse">
               <ul class="nav navbar-nav ml-auto">
-              <li class="nav-item active"><a href="<?php echo base_url() ;?>">Home </a></li>
+              <li class="nav-item"><a href="<?php echo base_url() ;?>">Home </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/events">Events </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/destinations">Destinations </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/blog">Blog </a></li>

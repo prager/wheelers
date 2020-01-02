@@ -95,7 +95,7 @@
                   <p class="lead">Below when I am done, will be the list of main events starting at (determined by clicking on the calendar) including trips,
                   club meetings, parties, and any other event. What we do is listed here:
                   <a href="http://getbootstrap.com/css/" class="external">What we do page</a>.</p>
-                  <h1>Text formatting - Header level 1</h1>
+                  <h1>Events Page is Coming - Header level 1</h1>
                   <p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
                   <h2>Header Level 2</h2>
                   <ol>

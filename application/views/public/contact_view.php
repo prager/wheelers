@@ -18,7 +18,7 @@
 				<div id="googleMap" style="height: 310px;">&nbsp;</div>
 					<script>
 					function myMap() {
-					var myCenter = new google.maps.LatLng(37.8942182873016, -122.0753281957829);
+					var myCenter = new google.maps.LatLng(37.618228928074544, -122.13935184582134);
 					var mapProp = {center:myCenter, zoom:9, scrollwheel:true, draggable:true, mapTypeId:google.maps.MapTypeId.ROADMAP};
 					var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 					var marker = new google.maps.Marker({position:myCenter});
@@ -26,16 +26,16 @@
 					}
 					</script>
 					<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBeOLEmQMnt6O2kEXJ7llYr1xw2y-BEm6M&callback=myMap"></script>
-            </div>
+        </div>
         <div id="contact" class="container">
           <div class="row">
             <div class="col-lg-8">
               <section class="bar">
                 <div class="heading">
-                  <h2>We are here</h2>
+                  <h3>We are always here</h3>
                 </div>
-                <p class="lead">Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.</p>
-                <p class="text-sm">Please feel free to contact us, our customer service center is working for you 24/7.</p>
+                <p class="lead">Are you curious about something? Do you have some kind of problem with your Jeep? </p>
+                <p class="text-sm">Some of our members are true experts and able to solve any Jeep problems. Just send us a note!</p>
                 <div class="heading">
                   <h3>Contact form</h3>
                 </div>
@@ -80,19 +80,12 @@
             </div>
             <div class="col-lg-4">
               <section class="bar mb-0">
-                <h3 class="text-uppercase">Address</h3>
-                <p class="text-sm">13/25 New Avenue<br>New Heaven<br>45Y 73J<br>England<br><strong>Great Britain</strong></p>
-                <h3 class="text-uppercase">Call center</h3>
-                <p class="text-muted text-sm">This number is toll free if calling from Great Britain otherwise we advise you to use the electronic form of communication.</p>
-                <p><strong>+33 555 444 333</strong></p>
-                <h3 class="text-uppercase">Electronic support</h3>
-                <p class="text-muted text-sm">Please feel free to write an email to us or to use our electronic ticketing system.</p>
-                <ul class="text-sm">
-                  <li><strong><a href="mailto:">info@fakeemail.com</a></strong></li>
-                  <li><strong><a href="#">Ticketio</a></strong> - our ticketing support platform</li>
-                </ul>
+                <h3 class="text-uppercase">Our Location:</h3>
+                <p class="text-sm">Hayward, CA</p>
               </section>
             </div>
           </div>
         </div>
       </div>
+      
+      

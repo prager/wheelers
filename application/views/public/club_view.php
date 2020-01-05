@@ -14,18 +14,17 @@
     </div>
 </div>
 <div id="content">
-    <div class="container">
-    <div class="row">&nbsp;</div>
-    	<div class="row">
+	<div class="container">
+		<div class="row">&nbsp;</div>
+		<div class="row">
     		<div class="col-md-12"><h1> Our Club Page is coming soon</h1></div>
-    	</div> 
-    <div class="row">&nbsp;</div>
+    	</div>
+    	<div class="row">&nbsp;</div>
     	<div class="row">
     		<div class="col-md-12"><p>Stay tuned!</p></div>
-    	</div>      
-	</div>
-	<div class="row">&nbsp;</div>
-	<div class="row">&nbsp;</div>
-	<div class="row">&nbsp;</div>     
-	</div>
+    	</div> 
+		<div class="row">&nbsp;</div>
+		<div class="row">&nbsp;</div>
+		<div class="row">&nbsp;</div>
+	</div>  
 </div>

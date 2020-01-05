@@ -113,7 +113,6 @@
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/events">Events </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/destinations">Destinations </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/blog">Blog </a></li>
-              <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/garage">Jeep Garage </a></li>
               <li class="nav-item dropdown"><a href="javascript: void(0)" data-toggle="dropdown" class="dropdown-toggle">
                 About <b class="caret"></b></a>
                   <ul class="dropdown-menu">

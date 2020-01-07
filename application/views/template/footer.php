@@ -44,11 +44,12 @@
             </div>
             <div class="col-lg-3">
               <h4 class="h6">Contact</h4>
-              <p class="text-uppercase"><strong>Universal Ltd.</strong><br>13/25 New Avenue <br>Newtown upon River <br>45Y 73J <br>England <br><strong>Great Britain</strong></p><a href="contact.html" class="btn btn-template-main">Go to contact page</a>
+              <p class="text-uppercase"><strong>Wandering Wheelers</strong><br>Hayward, CA <br><strong>USA</strong></p>
+              <a href="<?php echo base_url();?>index.php/pub/contact" class="btn btn-template-main">Go to contact page</a>
               <hr class="d-block d-lg-none">
             </div>
             <div class="col-lg-3">
-            <h4 class="h6">Albums</h4>
+            <h4 class="h6">Photo Albums</h4>
               <ul class="list-inline photo-stream">
                <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo-white.png" alt="..." class="img-fluid"></a></li>
                 <li class="list-inline-item"><a href="#"><img src="<?php echo base_url() ;?>/assets/img/logo-white.png" alt="..." class="img-fluid"></a></li>
@@ -64,10 +65,10 @@
           <div class="container">
             <div class="row">
               <div class="col-lg-4 text-center-md">
-                <p>&copy; 2019. Your company / name goes here</p>
+                <p>&copy; 2019 Wandering Wheelers</p>
               </div>
               <div class="col-lg-8 text-right text-center-md">
-                <p>Template design by <a href="https://bootstrapious.com/p/big-bootstrap-tutorial">Bootstrapious </a>& <a href="https://fity.cz/ostrava">Fity</a></p>
+                <p>Done by <a href="http://jlkcosulting.info">JLK Consulting</a> while inspired by <a href="https://bootstrapious.com/p/big-bootstrap-tutorial">Bootstrapious </a>& <a href="https://fity.cz/ostrava">Fity</a></p>
                 <!-- Please do not remove the backlink to us unless you purchase the Attribution-free License at https://bootstrapious.com/donate. Thank you. -->
               </div>
             </div>

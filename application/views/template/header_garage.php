@@ -52,7 +52,7 @@
         <div class="container">
           <div class="row d-flex align-items-center">
             <div class="col-md-6 d-md-block d-none">
-              <p>Contact us on +420 777 555 333 or hello@universal.com.</p>
+              <p>Contact us at wheelers@jlkconsulting.info</p>
             </div>
             <div class="col-md-6">
               <div class="d-flex justify-content-md-end justify-content-between">

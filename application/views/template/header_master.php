@@ -52,7 +52,7 @@
         <div class="container">
           <div class="row d-flex align-items-center">
             <div class="col-md-6 d-md-block d-none">
-              <p>Contact us at wheelers@jlkconsulting.info</p>
+              <p>Contact us wheelers@jlkconsulting.info</p>
             </div>
             <div class="col-md-6">
               <div class="d-flex justify-content-md-end justify-content-between">
@@ -82,7 +82,7 @@
               <button type="button" data-dismiss="modal" aria-label="Close" class="close"><span aria-hidden="true">×</span></button>
             </div>
             <div class="modal-body">
-              <form action="<?php echo base_url() ;?>index.php/login" method="get">
+              <form action="customer-orders.html" method="get">
                 <div class="form-group">
                   <input id="email_modal" type="text" placeholder="email" class="form-control">
                 </div>
@@ -109,11 +109,10 @@
             <button type="button" data-toggle="collapse" data-target="#navigation" class="navbar-toggler btn-template-outlined"><span class="sr-only">Toggle navigation</span><i class="fa fa-align-justify"></i></button>
             <div id="navigation" class="navbar-collapse collapse">
               <ul class="nav navbar-nav ml-auto">
-              <li class="nav-item active"><a href="<?php echo base_url() ;?>">Home </a></li>
+              <li class="nav-item"><a href="<?php echo base_url() ;?>">Home </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/events">Events </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/destinations">Destinations </a></li>
               <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/blog">Blog </a></li>
-              <!-- <li class="nav-item"><a href="<?php echo base_url() ;?>index.php/pub/garage">Jeep Garage </a></li> -->
               <li class="nav-item dropdown"><a href="javascript: void(0)" data-toggle="dropdown" class="dropdown-toggle">
                 About <b class="caret"></b></a>
                   <ul class="dropdown-menu">

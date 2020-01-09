@@ -50,4 +50,24 @@ class Pub extends CI_Controller {
 	    $this->load->view('public/team_view');
 	    $this->load->view('template/footer');
 	}
+	
+	public function register() {	    
+	    $this->load->view('template/header_gen');
+	    $data['fname'] = '';
+	    $data['lname'] = '';
+	    $data['email'] = '';
+	    $data['callsign'] = '';
+	    $data['phone'] = '';
+	    $data['street'] = '';
+	    $data['city'] = '';
+	    $data['state'] = 'CA';
+	    $data['zip'] = '';
+	    $data['msg'] = '';
+	    $data['twitter'] = '';
+	    $data['facebook'] = '';
+	    $data['linkedin'] = '';
+	    $data['googleplus'] = '';
+	    $this->load->view('public/register_view',$data);
+	    $this->load->view('template/footer');
+	}
 }

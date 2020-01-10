@@ -27,7 +27,7 @@
                   </div>
                   </div>
                   <?php }?>
-                <?php echo form_open('public_ctl/send_reg/'); ?>
+                <?php echo form_open('pub/send_reg/'); ?>
                 <div class="row">
                     <div class="col-md-3 col-md-offset-3">
                     <div class="form-group">
@@ -138,7 +138,15 @@
                         </div>
                       </div>
                     </div>
-                    
+                    <div class="row">
+                    	<div class="col-md-5 col-md-offset-3">
+                    	<div class="form-group">
+                    		<label for="name-login">* Access Type</label>
+                            <?php echo form_dropdown('type', $this->data_lib->get_acc_types(), $type, 
+			          			'class="form-control"'); ?>
+                    	</div>
+                    	</div>
+                    </div>
                     <div class="row">
                     <div class="col-md-3 col-md-offset-3">
                     <div class="form-group">

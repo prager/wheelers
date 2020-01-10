@@ -73,4 +73,18 @@ class Data_lib {
 
 		return $states;
 	}
+	
+	public function get_acc_types() {
+	    $types = array(
+	        '1' => 'Site Admin',
+	        '2' => 'Editor',
+	        '3' => 'Blogger',
+	        '4' => 'Blog Editor',
+	        '5' => 'Forum Editor',
+	        '6' => 'Forum User',
+	        '7' => 'Guest'
+	    );
+	    
+	    return $types;
+	}
 }

@@ -68,7 +68,7 @@
                 <p>&copy; 2019 Wandering Wheelers</p>
               </div>
               <div class="col-lg-8 text-right text-center-md">
-                <p>Done by <a href="http://jlkcosulting.info">JLK Consulting</a> while inspired by <a href="https://bootstrapious.com/p/big-bootstrap-tutorial">Bootstrapious </a>& <a href="https://fity.cz/ostrava">Fity</a></p>
+                <p>Done by <a href="http://jlkconsulting.info">JLK Consulting</a> while inspired by <a href="https://bootstrapious.com/p/big-bootstrap-tutorial">Bootstrapious </a>& <a href="https://fity.cz/ostrava">Fity</a></p>
                 <!-- Please do not remove the backlink to us unless you purchase the Attribution-free License at https://bootstrapious.com/donate. Thank you. -->
               </div>
             </div>

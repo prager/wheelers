@@ -58,7 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('Data_lib', 'Date_lib');
+$autoload['libraries'] = array('Data_lib', 'Date_lib', 'Phpmailer_lib');
 
 /*
 | -------------------------------------------------------------------

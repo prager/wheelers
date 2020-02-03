@@ -79,8 +79,8 @@ class Pub extends CI_Controller {
 	    $param['email'] = $this->input->post('email');
 	    $param['street'] = $this->input->post('street');
 	    $param['city'] = $this->input->post('city');
-	    $param['state_cd'] = $this->input->post('state');
-	    $param['zip_cd'] = $this->input->post('zip');
+	    $param['state'] = $this->input->post('state');
+	    $param['zip'] = $this->input->post('zip');
 	    $param['phone'] = $this->input->post('phone');
 	    $param['facebook'] = $this->input->post('facebook');
 	    $param['twitter'] = $this->input->post('twitter');
@@ -90,11 +90,11 @@ class Pub extends CI_Controller {
 	    $this->load->view('template/header_gen', array('logged' => FALSE));
 	    
 	    if($param['lname'] == '' || $param['fname'] == '' || valid_email($param['email']) != TRUE || $param['street'] == '' || $param['city'] == ''
-	        || $param['zip_cd'] == '' || $param['phone'] == '') {
+	        || $param['zip'] == '' || $param['phone'] == '') {
 	            
 	            $data = $param;
-	            $data['state'] = $param['state_cd'];
-	            $data['zip'] = $param['zip_cd'];
+	            $data['state'] = $param['state'];
+	            $data['zip'] = $param['zip'];
 	            $data['title'] = 'Error!';
 	            $data['msg'] = '<span style="color: red">Please, fill all the required information. Thank you!</span>';
 	            
